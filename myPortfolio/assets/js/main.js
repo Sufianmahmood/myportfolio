@@ -18,6 +18,7 @@ navToggle.addEventListener('click', () => {
 /*=============== SCROLL SECTIONS ACTIVE LINK ===============*/
 
 /*=============== SERVICES SWIPER ===============*/
+/*
     var servicesSwiper = new Swiper('.services-swiper', {
 
     spaceBetween: 32,
@@ -38,6 +39,7 @@ navToggle.addEventListener('click', () => {
 
     });
 
+    */
 /*=============== MIXITUP FILTER PORTFOLIO ===============*/
 
 /* Active work */
